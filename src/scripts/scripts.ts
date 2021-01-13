@@ -1,0 +1,1 @@
+export function deleteMe(): string { return "You can delete me!"};
